@@ -1,7 +1,7 @@
 # BERT-and-LDA-Topic-Modelling
 Analysis of full-text Pubmed articles about Mast Cells.
 
-Built upon the repository [a link] (https://github.com/Abiza1403/Topic-Modelling).
+Built upon the repository https://github.com/Abiza1403/Topic-Modelling
 Further steps performed:
 1. BERT model created
 2. LDA model created
